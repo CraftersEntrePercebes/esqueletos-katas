@@ -1,24 +1,23 @@
-# Ruby and RSpec
+# Ruby y RSpec
 
-## Installation
+## Instalación
 
 ```bash
 $ gem install bundler
 $ bundle install # Installs RSpec
 ```
 
-## Source code
-Your code should be in `/lib` directory.
+## Código fuente
+Tu código debería estar en el directorio `/lib`.
 
-If you want to import your code to the specs you must write on them:
+Si quieres importar tu código en los tests, debes escribir lo siguiente al principio de los tests:
 
 ```ruby
-require 'name-of-file'
+require 'nombre_del_fichero'
 ```
 
-## Running Specs
-
-Tests are located in `/spec` directory. To run them:
+## Ejecutar Specs
+Los tests están en el directorio `/spec`. Para ejecutarlos:
 
 ```bash
 $ rspec
