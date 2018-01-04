@@ -21,3 +21,5 @@ Los pasos serían los siguientes:
 * E.g. `cp esqueletos-katas/java8-maven FizzBuzz/`
 6. Sigue los pasos explicados en el README de dicho esqueleto para asegurarte de que todo funciona correctamente.
 7. ¡¡Tacháaan!! Ya deberías tener el entorno preparado para la kata :-)
+8. Una vez "finalizada", sube tu kata a tu repositorio forkeado **(commit & push)** (aunque lo ideal sería que lo hubieras estado haciendo continuamente).
+9. Haz una **Pull Request** para que lo integremos en el repo original y así podáis compartir vuestras soluciones
