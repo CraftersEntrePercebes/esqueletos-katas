@@ -8,6 +8,8 @@ De momento puedes encontrar los siguientes esqueletos:
 
 Si echas en falta alguno, tal vez puedas encontrarlo en este repositorio: https://github.com/swkBerlin/kata-bootstraps 
 
+Por otra parte, si te da demasiada pereza prepararlo, puedes hacer la kata online en cualquier lenguaje más o menos conocido, desde aquí: http://cyber-dojo.org 
+
 
 ## Cómo usarlo
 Puedes usarlo como quieras, pero te animamos a que subas y compartas tu kata al repositorio, tanto para ser compartida con otras personas como para ti mismo.
